@@ -28,7 +28,7 @@ body {
   background-color: green;
   color: white;
 }
-.disclaimer .disclaimer-input .disclaimer-boutton .disclaimer-boutton:hover {
+.disclaimer .disclaimer-input .disclaimer-boutton:hover {
   background-color: violet;
   color: black;
 }
@@ -77,7 +77,7 @@ body {
   color: red;
   padding: 10px;
 }
-.navbar .corps-navbar .options-navbar .option .lien-navbar .lien-navbar:hover {
+.navbar .corps-navbar .options-navbar .option .lien-navbar:hover {
   color: white;
   background-color: black;
   transition: 1s;
